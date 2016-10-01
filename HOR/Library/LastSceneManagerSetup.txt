@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scene/Bridge_wood _hosbitle_main.unity
+  isLoaded: 1
+  isActive: 1
